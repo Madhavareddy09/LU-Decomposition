@@ -48,8 +48,8 @@ To write a program to find the LU Decomposition of a matrix.
 (i) To find the L and U matrix
 ```
 '''Program to find L and U matrix using LU decomposition.
-Developed by: Santhan Kumar
-RegisterNumber: 23004568
+Developed by: K.Madhava Reddy
+RegisterNumber: 23009929
 '''
 from scipy.linalg import lu
 import numpy as np
@@ -62,8 +62,8 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```
 '''Program to solve a matrix using LU decomposition.
-Developed by: Santhan Kumar
-RegisterNumber: 23004568
+Developed by: K.Madhava Reddy
+RegisterNumber: 23009929
 '''
 
 # To print X matrix (solution to the equations)
@@ -81,11 +81,13 @@ print(solution)
 ## Output:
 (i)
 
-![image](https://github.com/SANTHAN-2006/LU-Decomposition/assets/80164014/4353b6cd-05ba-481f-a5d7-c93684167011)
+![image](https://github.com/Madhavareddy09/LU-Decomposition/assets/145742470/bf007a46-6fbf-4bc3-8dd6-dbe95e834468)
+
 
 (ii)
 
-![image](https://github.com/SANTHAN-2006/LU-Decomposition/assets/80164014/d6e04c8d-fedb-459f-8d51-f1a99e617802)
+![image](https://github.com/Madhavareddy09/LU-Decomposition/assets/145742470/6df5bec4-4922-4621-9291-b27697dfb585)
+
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
