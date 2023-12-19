@@ -85,8 +85,8 @@ print(solution)
 
 
 (ii)
+![image](https://github.com/Madhavareddy09/LU-Decomposition/assets/145742470/4b11dd49-ce8a-4d83-8ea0-2ffdcdf4ab8f)
 
-![image](https://github.com/Madhavareddy09/LU-Decomposition/assets/145742470/6df5bec4-4922-4621-9291-b27697dfb585)
 
 
 ## Result:
